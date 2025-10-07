@@ -1,0 +1,6 @@
+Para los link 
+
+Este es un [palabra_enlace](https://enlace-) esto ya es texto
+Ejemplo:
+Este es un [<<!nav>>enlace<<!/nav>> en línea](https://www.ejemplo.com) con un título opcional.
+
