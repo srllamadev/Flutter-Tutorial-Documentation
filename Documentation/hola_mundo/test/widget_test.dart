@@ -16,7 +16,7 @@ void main() {
     await tester.pumpWidget(const MyApp());
 
     // Verify that the app bar title is correct
-    expect(find.text('Pokemon List'), findsOneWidget);
+    expect(find.text('Pokemon Heroes'), findsOneWidget);
 
     // Verify that loading indicator appears initially
     expect(find.byType(CircularProgressIndicator), findsOneWidget);
